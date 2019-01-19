@@ -1,10 +1,10 @@
 ---
-layout：post
-title：テスト投稿
-excerpt：これはテスト投稿です
-date：2019-01-20
-tags：test
-author：libers
+layout： post
+title： テスト投稿
+excerpt： これはテスト投稿です
+date： 2019-01-20
+tags： test
+author： libers
 ---
 
 最初のテスト投稿
